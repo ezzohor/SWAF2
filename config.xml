@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+	
+<preference name="phonegap-version" value="2.9.0" />
+<name>Souar Wa Ayat Faadela</name>
+
+<description>
+Souar Wa Ayat Faadela.
+</description>
+
+
+
+<author href="https://example.com" email="you@example.com">
+Mourad Ezzohor
+</author>
+
+</widget>
